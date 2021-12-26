@@ -27,3 +27,6 @@ This map also provides information about the drastic difference of use by males,
 ### Summary
 This data shows high activities of bikesharing in New York. We can also infer that the use of bikes were during peak rush hour on the weekdays, considering the high concentration in the heat maps when looking in the morning and the evening for those who work 9 to 5 jobs. The possible reason for having such a high use of bikesharing could be the demand for an alternative method of transportation as opposed to Ubering/Lyfting, taking the subway, or simply driving even though not many who live in the city find it convenient to have a car anyway.
 Some additional information that would be interesting to see would be the trend during the season and how it changes as well for us to obtain the data of alternative methods of transportation to see if it changes over the seasons and which one peaks at each season.
+
+### Link to Dashboard
+[Link to Dashboard](https://public.tableau.com/app/profile/andrea.del.carpio/viz/Deliverable2_16405545664350/Deliverable2?publish=yes)
